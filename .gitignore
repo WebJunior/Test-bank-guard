@@ -1,0 +1,6 @@
+.env
+.replit
+poetry.lock
+pyproject.toml
+/.idea
+/venv
