@@ -4,3 +4,4 @@ poetry.lock
 pyproject.toml
 /.idea
 /venv
+project/__pycache__/
