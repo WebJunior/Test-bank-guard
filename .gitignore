@@ -5,3 +5,4 @@ pyproject.toml
 /.idea
 /venv
 project/__pycache__/
+datacenter/__pycache__/
