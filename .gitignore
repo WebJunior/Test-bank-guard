@@ -6,3 +6,4 @@ pyproject.toml
 /venv
 project/__pycache__/
 datacenter/__pycache__/
+datacenter/migrations/__pycache__/
